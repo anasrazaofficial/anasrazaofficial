@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://discoveranas.vercel.app/](https://discoveranas.vercel.app/)
 
-- Some of my other projects are:
+- 🚀 Some of my other projects are:
   - [MultiTool Pro](https://multitoolpro.vercel.app/)
   - [JavaScript Project](https://jssimpleprojects.vercel.app/)
 
