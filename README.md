@@ -7,6 +7,10 @@
 
 - 👨‍💻 All of my projects are available at [https://discoveranas.vercel.app/](https://discoveranas.vercel.app/)
 
+- Some of my other projects are:
+  - [MultiTool Pro](https://multitoolpro.vercel.app/)
+  - [JavaScript Project](https://jssimpleprojects.vercel.app/)
+
 - 📫 How to reach me **sanasraza1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
