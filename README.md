@@ -3,10 +3,11 @@
 
 - 🔭 I've contributed on:
   - [Printlab Pakistan](https://app.printlab.stepwaysoftwares.com/#/)
-  - [SK Printing Solutions](https://ims-sk-printing.vercel.app/)
   - [MBA Consultants](https://mbaconsultants.com.pk/)
+  - [SK Printing Solution](https://www.skprintingsolution.com/)
+  - [IMS - SK Printing Solutions](https://ims-sk-printing.vercel.app/)
 
-- 🌱 I have acquired proficiency in **HTML, CSS, JavaScript, Angular, ReactJs, Bootstrap and Tailwind**
+- 🌱 I have acquired proficiency in **HTML, CSS, JavaScript, Angular, ReactJs, Tailwind, and Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://discoveranas.vercel.app/](https://discoveranas.vercel.app/)
 
