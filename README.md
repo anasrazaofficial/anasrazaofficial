@@ -5,9 +5,9 @@
   - [Printlab Pakistan](https://app.printlab.stepwaysoftwares.com/#/)
   - [MBA Consultants](https://mbaconsultants.com.pk/)
   - [SK Printing Solution](https://www.skprintingsolution.com/)
-  - [IMS - SK Printing Solutions](https://ims-sk-printing.vercel.app/)
+  - [IMS - SK Printing Solution](https://github.com/anasrazaofficial)
 
-- 🌱 I have acquired proficiency in **HTML, CSS, JavaScript, Angular, ReactJs, Tailwind, and Bootstrap**
+- 🌱 I have acquired proficiency in **HTML, CSS, JavaScript, Angular, ReactJs, NodeJS, Express, MongoDB Tailwind, and Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://discoveranas.vercel.app/](https://discoveranas.vercel.app/)
 
@@ -15,6 +15,7 @@
   - [MultiTool Pro](https://multitoolpro.vercel.app/)
   - [JavaScript Project](https://jssimpleprojects.vercel.app/)
   - [Car Rental System](https://github.com/anasrazaofficial/car-rental-system)
+  - [Tech Store](https://github.com/anasrazaofficial/tech-store-react)
 
 <h2 align="left">Connect with me:</h2>
 <div align="center">
@@ -22,7 +23,7 @@
   <a href="https://www.instagram.com/syedanasrazabukhari"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
   <a href="mailto:sanasraza1234@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/syedanasraza"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-  <a href="https://www.facebook.com/profile.php?id=100026970972687&mibextid=zbwkwl"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=316FF6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <a href="https://www.facebook.com/syedanasrazabukhari"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=316FF6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
    <a href="https://twitter.com/anas_raza_4114"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
