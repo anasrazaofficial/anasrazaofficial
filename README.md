@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Raza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
 - 🔭 I've contributed on:
   - [Printlab Pakistan](https://app.printlab.stepwaysoftwares.com/#/)
