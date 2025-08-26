@@ -1,30 +1,71 @@
 <h1 align="center">Hi 👋, I'm Anas Raza</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan</h3>
+<h3 align="center">🚀 Software Developer | Full-Stack MERN Engineer | Cloud Enthusiast</h3>
 
-- 🔭 I've contributed on:
-  - [Printlab Pakistan](https://app.printlab.stepwaysoftwares.com/#/)
-  - [MBA Consultants](https://mbaconsultants.com.pk/)
-  - [SK Printing Solution](https://www.skprintingsolution.com/)
-  - [IMS - SK Printing Solution](https://github.com/anasrazaofficial)
+I am a software developer with hands-on experience in **JavaScript, ReactJS/Next.js, Node.js, and RESTful API development**. I specialize in building scalable web applications, crafting responsive UIs, and deploying full-stack solutions to clouds like **AWS** and **Azure**.
 
-- 🌱 I have acquired proficiency in **HTML, CSS, JavaScript, Angular, ReactJs, NodeJS, Express, MongoDB Tailwind, and Bootstrap**
+## 🔥 Core Expertise
 
-- 👨‍💻 All of my projects are available at [https://discoveranas.vercel.app/](https://discoveranas.vercel.app/)
+- **Frontend Development**: React.js, Next.js, Angular, Tailwind CSS, Material UI, shadcn/ui
+- **Backend Development**: Node.js, Express.js, RESTful APIs, Prisma, Mongoose
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Cloud & DevOps**: AWS Lambda, API Gateway, Azure VMs, Azure Functions, Azure App Service
+- **Professional Practices**: Git & GitHub, Agile Methodologies, CI/CD pipelines, Testing & Debugging
 
-- 🚀 Some of my other projects are:
-  - [MultiTool Pro](https://multitoolpro.vercel.app/)
-  - [JavaScript Project](https://jssimpleprojects.vercel.app/)
-  - [Car Rental System](https://github.com/anasrazaofficial/car-rental-system)
-  - [Tech Store](https://github.com/anasrazaofficial/tech-store-react)
+> 💡 **Note:** These are not just tools I’ve used — they are the **core skills I master and apply daily** in building real-world software solutions.
+>
+## 💼 Experience  
+
+- **Software Developer – Techieonix International (Mar 2025 – Present)**  
+  - Designed and deployed **robust backend systems** supporting SQL & NoSQL.
+  - Integrated **headless CMS (Contentful)** for dynamic content management.
+  - Hands-on with **AWS & Azure cloud deployments** and serverless architecture.
+
+- **Frontend Developer – Techieonix International (Aug 2023 – Feb 2025)**
+  - Delivered **pixel-perfect UIs** from Figma using React, Next.js, Tailwind.
+  - Built clean state management with **Redux** and API integrations.
+
+- **Web Developer – Stepway (Jan 2023 - Aug 2023)**
+  - Built modern **Angular + Bootstrap** applications with responsive layouts.
+  - Improved application **stability and SEO visibility**.
+
+---
+
+## 🎓 Education
+
+- **BS Computer Science (2027)** – Dawood University of Engineering & Technology
+- **Intermediate Pre-Engineering (2023)** – Adamjee Government Science College
+
+---
+
+## 📜 Certifications
+
+- **Pro JavaScript Backend Developer** – Udemy (2024)
+- **Certificate in Information Technology** – Computer Collegiate (2022)
+- **International Kangaroo Mathematics Contest** – IKMC Participant (2017)
+
+---
+
+## 🏢 Work Contributions  
+
+I also contribute actively on my **work GitHub account**:\
+👉 [github.com/techieonix](https://github.com/techieonix)\
+👉 [github.com/sanasraza](https://github.com/sanasraza)
+
+Here you’ll find:  
+
+- Enterprise-grade projects  
+- Full-stack MERN applications  
+- Cloud & DevOps workflows
+
+---
 
 <h2 align="left">Connect with me:</h2>
 <div align="center">
- <a href="https://www.instagram.com/syedanasrazabukhari/"></a>
   <a href="https://www.instagram.com/syedanasrazabukhari"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
-  <a href="mailto:sanasraza1234@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/syedanasraza"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
   <a href="https://www.facebook.com/syedanasrazabukhari"> <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=316FF6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-   <a href="https://twitter.com/anas_raza_4114"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <a href="mailto:sanasraza1234@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/anasaqeelbukhari/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <a href="https://twitter.com/anas_raza_4114"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -51,3 +92,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anasrazaofficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasrazaofficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+---
+
+✨ _"Writing clean code is my discipline, building scalable solutions is my art, and solving problems is my passion."_
