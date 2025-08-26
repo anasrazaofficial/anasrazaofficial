@@ -42,7 +42,7 @@ I am a software developer with hands-on experience in **JavaScript, ReactJS/Next
 ### 🟢 Personal Projects  
 - [**My Portfolio**](https://www.anasraza.engineer/) – Personal portfolio showcasing skills, experience, and projects.
 - [**Car Rental System**](https://github.com/anasrazaofficial/car-rental-system) – Java + Swing + SQL app for managing bookings, customers, and commission calculations.  
-- [**Tech Store**](https://github.com/anasrazaofficial/tech-store-react) – Full-featured e-commerce store built with React.
+- [**Tech Store**](https://github.com/anasrazaofficial/tech-store-react) – Full-featured e-commerce store built on MERN stack.
 - [**Simple JavaScript Apps**](https://jssimpleprojects.vercel.app/) - Collection of simple JavaScript apps for practice and learning.
 - [**Multi-Tool Pro**](https://multitoolpro.vercel.app/) - Utility app bundle providing multiple small tools in one place.
 - [**React Dashboard**](https://github.com/anasrazaofficial/react-dashboard) - React + Tailwind dashboard featuring Kanban, calendar, rich text editor, and more.
