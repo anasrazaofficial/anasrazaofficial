@@ -12,7 +12,7 @@ I am a software developer with hands-on experience in **JavaScript, ReactJS/Next
 - **Professional Practices**: Git & GitHub, Agile Methodologies, CI/CD pipelines, Testing & Debugging
 
 > 💡 **Note:** These are not just tools I’ve used — they are the **core skills I master and apply daily** in building real-world software solutions.
->
+
 ## 💼 Experience  
 
 - **Software Developer – Techieonix International (Mar 2025 – Present)**  
@@ -33,7 +33,30 @@ I am a software developer with hands-on experience in **JavaScript, ReactJS/Next
 ## 🎓 Education
 
 - **BS Computer Science (2027)** – Dawood University of Engineering & Technology
-- **Intermediate Pre-Engineering (2023)** – Adamjee Government Science College
+- **Intermediate Pre-Engineering (2023)** – Adamjee Government Science College  
+
+---
+
+## 🚀 Projects  
+
+### 🟢 Personal Projects  
+- [**My Portfolio**](https://www.anasraza.engineer/) – Personal portfolio showcasing skills, experience, and projects.
+- [**Car Rental System**](https://github.com/anasrazaofficial/car-rental-system) – Java + Swing + SQL app for managing bookings, customers, and commission calculations.  
+- [**Tech Store**](https://github.com/anasrazaofficial/tech-store-react) – Full-featured e-commerce store built with React.
+- [**Simple JavaScript Apps**](https://jssimpleprojects.vercel.app/) - Collection of simple JavaScript apps for practice and learning.
+- [**Multi-Tool Pro**](https://multitoolpro.vercel.app/) - Utility app bundle providing multiple small tools in one place.
+- [**React Dashboard**](https://github.com/anasrazaofficial/react-dashboard) - React + Tailwind dashboard featuring Kanban, calendar, rich text editor, and more.
+- [**Login Page**](https://login-page-ten-rose.vercel.app/) – Modern Tailwind-based login and landing page design.
+
+### 🏢 Professional Contributions  
+- [**Techieonix**](https://www.techieonix.io/) – Service-based company website built with Next.js and Tailwind.
+- [**SK Printing Solution**](https://skprintingsolution.com/) – React + Tailwind website for a printing company with an integrated IMS.  
+- [**Inventory Management System**](https://skprintingsolution.com/) – MERN-based IMS for SK Printing Solution managing inventory, sales, purchases, users, and POS.
+- [**Printlab Pakistan**](https://app.printlab.stepwaysoftwares.com/#/) – Admin panel for printing operations developed with Angular, Java, and Bootstrap.
+- **Abwa Islamic School** – Showcase website for Abwa Islamic School using Next.js and Tailwind.
+- [**MBA Consultants**](https://www.mbaconsultants.com.pk/) – HTML + Tailwind responsive website for a consultancy firm.
+- [**Israar Electronics**](http://israrelectronics.com/) – Electronics store showcase website developed with Next.js and Tailwind.
+- [**Techieonix GitHub (Org)**](https://github.com/techieonix) – Collaborative contributions on MERN stack apps, backend APIs, and cloud deployments.
 
 ---
 
